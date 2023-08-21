@@ -1,2 +1,3 @@
 # wandb-cicd-ml
-This is my readme file
+
+These are resources for the wandb-cicd-ml course
